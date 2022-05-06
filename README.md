@@ -25,7 +25,7 @@ My name is Marcin Petynia. I attended The University of Technology in Cracow fro
 # Books 
 - J. Ollson - The Slight Edge
 - S. Young - Zostań ultrasamoukiem
-- R. Smiglin - Praktyka testowania - Zeszyt ćwiczeń
+- R. Smilgin - Praktyka testowania - Zeszyt ćwiczeń
 - D. Carnegie - Jak zdobyć przyjaciół i zjednać sobie ludzi
 # Recommended blogs & podcasts
 - [Dowiedz się jak zostać testerem](https://remigiuszbednarczyk.pl/) - Remigiusz Bednarczyk
