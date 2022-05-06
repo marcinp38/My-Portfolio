@@ -28,9 +28,9 @@ My name is Marcin Petynia. I attended The University of Technology in Cracow fro
 - R. Smiglin - Praktyka testowania - Zeszyt ćwiczeń
 - D. Carnegie - Jak zdobyć przyjaciół i zjednać sobie ludzi
 # Recommended blogs & podcasts
-[Dowiedz się jak zostać testerem](https://remigiuszbednarczyk.pl/) - Remigiusz Bednarczyk
-[Testowanie Oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/) - Piotr Wicherski
-[Pasja Informatyki](https://www.youtube.com/c/Pasjainformatykitutoriale) - Mirosław Zelent
-[Testelka-YT](https://www.youtube.com/c/Testelka) & [Testelka-blog](https://testelka.pl) - Ela Sądel
+- [Dowiedz się jak zostać testerem](https://remigiuszbednarczyk.pl/) - Remigiusz Bednarczyk
+- [Testowanie Oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/) - Piotr Wicherski
+- [Pasja Informatyki](https://www.youtube.com/c/Pasjainformatykitutoriale) - Mirosław Zelent
+- [Testelka-YT](https://www.youtube.com/c/Testelka) & [Testelka-blog](https://testelka.pl) - Ela Sądel
 # Webinars
 - GoIT - Maraton HTML + CSS
