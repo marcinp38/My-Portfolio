@@ -20,9 +20,14 @@ My name is Marcin Petynia. I attended The University of Technology in Cracow fro
 - **GIT**
 - **SCRUM**
 ## Certificates
-**[Sii]**
+**[Sii](https://sii.pl/szkolenia/oferta/tester-automatyzujacy/)** - Zostań Testerem Automatyzującym Selenium - during the course
 ## Courses
-
+### Udemy:
+1. **[Podstawy Manualnego Testowania Oprogramowania](https://www.udemy.com/certificate/UC-b4a6a46b-c5dc-4529-98c0-b50d83dce516/)**
+2. **[Praktyczny Kurs Testowania Oprogramowania](https://www.udemy.com/certificate/UC-85ac9f27-b987-4614-b6a7-1ff3a98c824f/)**
+### LinkedIn:
+1. **[SQL Essential training](https://www.linkedin.com/learning/certificates/61c41ac372d9f18fd809c75b02bea16362c65f3414a65c070071fd64e7a7bb7d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BiZzlhrZjSJWIZj8q56q2TA%3D%3D)**
+2. **[SCRUM: Advanced](https://www.linkedin.com/learning/certificates/e87c141d87d86b881d318eef23c1b80d36da4c632877634cf67b462f4be9ad64?trk=share_certificate)**
 ## Books 
 - **The Slight Edge** - J. Ollson
 - **Zostań ultrasamoukiem** - S. Young
@@ -35,3 +40,8 @@ My name is Marcin Petynia. I attended The University of Technology in Cracow fro
 - **[Testelka-YT](https://www.youtube.com/c/Testelka) & [Testelka-blog](https://testelka.pl)** - Ela Sądel
 ## Webinars
 - **GoIT - Maraton HTML + CSS**
+## Next goals
+- **Selenium**
+- **API Testing (including automation)**
+- **ISTQB Certificate**
+- **Basic knowledge about Computer Networks**
